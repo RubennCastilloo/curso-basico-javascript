@@ -7,7 +7,7 @@ var frutas = [
 
 var masFrutas = frutas.push("Uvas"); //Push agrega elementos al final del arreglo
 
-var ultimo = frutas.pop("Uvas"); //Pop elimina elementos del arreglo
+var ultimo = frutas.pop("Uvas"); //Pop elimina el ultimo elemento del arreglo
 
 var nuevaLongitud = frutas.unshift("Uvas"); //Unshift agrega elementos al inicio del arreglo
 
